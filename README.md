@@ -1,2 +1,2 @@
-# DnD_BECM_ita
+# D&D BECM ita
 Character sheet localization in Italian language
