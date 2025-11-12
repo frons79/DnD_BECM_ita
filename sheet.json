@@ -3,7 +3,6 @@
   "css": "BDnDSheet.css",
   "authors": "Gabriele Frontini",
   "roll20userid": "2292320",
-  "preview": "BDnDpreview.png",
-  "instructions": "This sheet for the Rules Cyclopedia version of Basic D&D (BECM). It supports skills, weapon mastery, and Warmachine rules.  It does not currently support Imortals rules. I WISH TO MAKE SOME MORE CHANGES LIKE ACTUALLY MAKING ROLLS ON THIEF SKILLS AND TURN UNDED, please let me know if you are opposed to this",
+  "instructions": "<p>This sheet is the italian translation of the Basic D&D (BECM). It supports skills, weapon mastery, and Warmachine rules.</p>\n<p>It does not currently support Immortals rules.</p>",
   "legacy": false
 }
